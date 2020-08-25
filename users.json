@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "5ece3316a38e0533a8e12aee"
+  },
+  "firstName": "Horn",
+  "lastName": "Academy",
+  "phone": "665444476",
+  "email": "horn.academy2020@gmail.com",
+  "created_date": {
+    "$date": "2020-05-27T09:29:58.591Z"
+  },
+  "hashPassword": "$2b$10$0Npz5N569jLm9dNYWS9JGeyny3OwaBlJHjSWjL.vWeGhuzTbpzu1y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ece336ea38e0533a8e12aef"
+  },
+  "firstName": "Abdulrazak ",
+  "lastName": "Dirie ",
+  "phone": "0615991378",
+  "email": "Abdulrazak.dirie@yahoo.com",
+  "created_date": {
+    "$date": "2020-05-27T09:31:26.968Z"
+  },
+  "hashPassword": "$2b$10$iiXkpiRXOx9sEwRy4tF.lur8CITiSdlZfRpf0yy1JzzLnicIz2pCW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ed34e82b3bf5627d0e0878b"
+  },
+  "firstName": "Salad",
+  "lastName": "Ali",
+  "phone": "0615708090",
+  "email": "abdulrazak.dirie@gmail.com",
+  "created_date": {
+    "$date": "2020-05-31T06:28:18.827Z"
+  },
+  "hashPassword": "$2b$10$F5CdOGdCK5Cf8O77wHYqL.meK/ZmLNzVUGipqqcEB9hM1EzU/X1Yy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef6b8c508f27fa6d4e237e6"
+  },
+  "firstName": "Cadnaan",
+  "lastName": "Yare",
+  "phone": "0615454554",
+  "email": "abdulrazak.dirie@gmail.com",
+  "created_date": {
+    "$date": "2020-06-27T03:11:01.427Z"
+  },
+  "hashPassword": "$2b$10$ZbDAKpdTVo7oYdxkrgzpxe7XvTdWKyJJm2uod707g79o7S2y386WK",
+  "__v": 0
+}]
